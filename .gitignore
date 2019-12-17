@@ -1,4 +1,6 @@
-.sass_cache
 _site
-404.html
-404.md
+node_modules
+.jekyll-cache
+.sass-cache
+/Gemfile.lock
+/Gemfile
